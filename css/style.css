@@ -3662,8 +3662,9 @@ form label.error{
   position: absolute;
   right: 0;
   top: 0;
-  color: #45EA69;
-  font-size: 28px;
+  color: #f2f2f2;
+  font-size: 26px;
+  margin-right: -12px;
 }
 
 .project-details .text-col .scope ul{
