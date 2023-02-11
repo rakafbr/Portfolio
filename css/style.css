@@ -329,14 +329,14 @@ p{
   margin: 0;
   line-height: 30px;
   padding: 16px 35px 14px;
-  color: #000000;
+  color: #242545;
   font-weight: 400;
   font-size: 18px;
   text-align: center;
   text-transform: none;
   background: #00ffef;
   border: 2px solid #00ffef;
-  border-radius: 7px;
+  border-radius: 8px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
   -ms-transition:all 0.3s ease;
@@ -353,7 +353,7 @@ p{
 .btn-style-one i{
   position: relative;
   display: inline-block;
-  top: -7px;
+  top: -8px;
   font-size: 20px;
   vertical-align: middle;
   padding-left: 20px;
@@ -388,7 +388,7 @@ p{
   margin: 0;
   line-height: 26px;
   padding: 16px 30px 14px;
-  color: #000000;
+  color: #242545;
   font-weight: 400;
   font-size: 15px;
   text-align: center;
@@ -413,7 +413,7 @@ p{
 .btn-style-two i{
   position: relative;
   display: inline-block;
-  top: -7px;
+  top: -8px;
   font-size: 20px;
   vertical-align: middle;
   padding-left: 20px;
@@ -720,7 +720,7 @@ form label.error{
   text-transform: capitalize;
   text-align:left;
   display:block;
-  padding-top:7px;
+  padding-top:8px;
   line-height: 24px;
 }
 
@@ -1384,7 +1384,7 @@ form label.error{
   content: "";
   position:absolute;
   left: 0;
-  top: 17px;
+  top: 18px;
   width: 6px;
   height: 6px;
   background: rgba(255, 255, 255, 0.20);
@@ -1913,7 +1913,7 @@ form label.error{
   font-family: 'Telegraf_Regular', sans-serif;
   letter-spacing: 4px;
   color: rgba(255, 255, 255, 0.35);
-  margin: 7px 0 3px;
+  margin: 8px 0 3px;
 }
 
 .def-title-box h3{
@@ -2263,7 +2263,7 @@ form label.error{
   background: #00ffef;
   text-transform: uppercase;
   letter-spacing: 4px;
-  border-radius: 0 0 7px 7px;
+  border-radius: 0 0 8px 8px;
 }
 
 .team-block .social{
@@ -2296,14 +2296,14 @@ form label.error{
   margin: 0 6px;
   font-size: 16px;
   line-height: 22px;
-  padding: 7px 15px;
+  padding: 8px 15px;
   width: 43px;
   height: 38px;
   color: #ffffff;
   background: rgba(255, 255, 255, 0.15);
   text-transform: uppercase;
   letter-spacing: 4px;
-  border-radius: 0 0 7px 7px;
+  border-radius: 0 0 8px 8px;
   -webkit-transition:all 500ms ease;
   -ms-transition:all 500ms ease;
   -o-transition:all 500ms ease;
@@ -4026,7 +4026,7 @@ form label.error{
   bottom: 0;
   width: 0%;
   height: 100%;
-  border-bottom: 7px solid #00ffef;
+  border-bottom: 8px solid #00ffef;
   transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
   -ms-transition:all 500ms ease;
@@ -4097,7 +4097,7 @@ form label.error{
   padding: 4px 14px;
   color: #ffffff;
   border: 1px solid #00ffef;
-  border-radius: 7px;
+  border-radius: 8px;
 }
 
 .post-comments .comment .link a:hover{
@@ -4213,7 +4213,7 @@ form label.error{
 
 .sidebar-side .recent-post .post .date{
   position: relative;
-  margin-bottom: 7px;
+  margin-bottom: 8px;
 }
 
 .sidebar-side .recent-post .post .date span{
@@ -4225,7 +4225,7 @@ form label.error{
   background: #00ffef;
   line-height: 20px;
   padding: 4px 10px;
-  border-radius: 7px;
+  border-radius: 8px;
 }
 
 .sidebar-side .recent-post .post .text{
@@ -4306,13 +4306,13 @@ form label.error{
 .sidebar-side .gallery-widget .images .image-box{
   position: relative;
   display: block;
-  border-radius: 7px;
+  border-radius: 8px;
 }
 
 .sidebar-side .gallery-widget .images .image-box img{
   display: block;
   width: 100%;
-  border-radius: 7px;
+  border-radius: 8px;
 }
 
 .sidebar-side .gallery-widget .images .image-box .overlink{
@@ -4324,7 +4324,7 @@ form label.error{
   background: rgba(54, 54, 54, 0.62);
   opacity: 0;
   visibility: hidden;
-  border-radius: 7px;
+  border-radius: 8px;
   transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
   -ms-transition:all 500ms ease;
@@ -5059,7 +5059,7 @@ form label.error{
 .banner-seven .pager-outer .pager-item .text{
   position: relative;
   display: block;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.5em;
   color: #ffffff;
   font-family: 'Telegraf_UltraLight', sans-serif;
@@ -5190,7 +5190,7 @@ form label.error{
   position: relative;
   display: block;
   font-family: 'Telegraf_UltraLight', sans-serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.5em;
   padding-top: 25px;
 }
@@ -5312,7 +5312,7 @@ form label.error{
   display: block;
   font-family: 'Monument_Extended_Regular', sans-serif;
   font-weight: 400;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1em;
   margin-bottom: 5px;
 }
@@ -5476,7 +5476,7 @@ form label.error{
 .banner-eight .bx-controls .bx-next{
   position: relative;
   display: inline-block;
-  margin: 0 7px;
+  margin: 0 8px;
   font-size: 32px;
   color: #ffffff;
 }
@@ -5733,7 +5733,7 @@ form label.error{
   position: relative;
   display: inline-block;
   vertical-align: top;
-  top: 7px;
+  top: 8px;
   margin: 0 12px;
   width: 50px;
   border-bottom: 2px solid rgba(255, 255, 255, 0.20);
