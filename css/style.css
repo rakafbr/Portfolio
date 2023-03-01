@@ -183,7 +183,7 @@ body {
 a{
   text-decoration: none;
   cursor: pointer;
-  color: #00ffef;
+  color: #00ffec;
 }
 
 a:hover, a:focus, a:visited, a:active, button:active, button:focus {
@@ -329,13 +329,13 @@ p{
   margin: 0;
   line-height: 30px;
   padding: 16px 35px 14px;
-  color: #242545;
+  color: #080927;
   font-weight: 400;
   font-size: 18px;
   text-align: center;
   text-transform: none;
-  background: #00ffef;
-  border: 2px solid #00ffef;
+  background: #00ffec;
+  border: 2px solid #00ffec;
   border-radius: 8px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -375,9 +375,9 @@ p{
 }
 
 .btn-style-one:hover{
-  color: #00ffef;
+  color: #00ffec;
   background: none;
-  border-color: #00ffef;
+  border-color: #00ffec;
 }
 
 .btn-style-two{
@@ -388,14 +388,14 @@ p{
   margin: 0;
   line-height: 26px;
   padding: 16px 30px 14px;
-  color: #242545;
+  color: #080927;
   font-weight: 400;
   font-size: 15px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  background: #00ffef;
-  border: 2px solid #00ffef;
+  background: #00ffec;
+  border: 2px solid #00ffec;
   border-radius: 0px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -423,9 +423,9 @@ p{
 }
 
 .btn-style-two:hover{
-  color: #00ffef;
+  color: #00ffec;
   background: none;
-  border-color: #00ffef;
+  border-color: #00ffec;
 }
 
 
@@ -438,7 +438,7 @@ p{
 }
 
 .theme_color {
-  color: #00ffef;
+  color: #00ffec;
 }
 
 .light-font {
@@ -524,7 +524,7 @@ img {
   z-index: 100;
   cursor: pointer;
   border-radius: 15px 15px 0 0;
-  background: #00ffef;
+  background: #00ffec;
   display: none;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -542,7 +542,7 @@ img {
 
 .scroll-to-top:hover {
   color: #ffffff;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 /*** 
@@ -606,7 +606,7 @@ form .field-inner .alt-icon{
   margin-top: -15px;
   line-height: 30px;
   font-size: 16px;
-  color: #00ffef;
+  color: #00ffec;
   z-index: 1;
   pointer-events: none;
 }
@@ -758,7 +758,7 @@ form label.error{
   height: 24px;
   line-height: 22px;
   background: #ffffff;
-  border: 1px solid #00ffef;
+  border: 1px solid #00ffec;
   border-radius: 50%;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -769,7 +769,7 @@ form label.error{
 
 .check-block input:checked + label:before{
   content: '';
-  background: #00ffef;
+  background: #00ffec;
   color: #ffffff;
 }
 
@@ -821,7 +821,7 @@ form label.error{
   width: 20px;
   height: 20px;
   background: #ffffff;
-  border: 1px solid #00ffef;
+  border: 1px solid #00ffec;
   border-radius: 50%;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -837,7 +837,7 @@ form label.error{
   top: 8px;
   width: 12px;
   height: 12px;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 50%;
   opacity: 0;
   z-index: 1;
@@ -881,7 +881,7 @@ form label.error{
   width:15px;
   height:30px;
   display:block;
-  color:#00ffef;
+  color:#00ffec;
   line-height:20px;
   font-size:14px;
   font-weight:700;
@@ -896,7 +896,7 @@ form label.error{
 }
 
 .ui-widget.ui-widget-content{
-  border:1px solid #00ffef;
+  border:1px solid #00ffec;
   border-top: none;
   font-family: 'Cairo', sans-serif;
   border-radius: 0;
@@ -905,7 +905,7 @@ form label.error{
 
 .ui-menu .ui-menu-item{
   font-size:16px;
-  border-bottom:1px solid #00ffef;
+  border-bottom:1px solid #00ffec;
 }
 
 .ui-menu .ui-menu-item:last-child{
@@ -931,7 +931,7 @@ form label.error{
   background: #252525;
   font-weight: 400;
   border: none;
-  border-bottom:1px solid #00ffef;
+  border-bottom:1px solid #00ffec;
   margin: 0;
 }
 
@@ -1051,7 +1051,7 @@ form label.error{
 
 .main-header-bar .social-links li a:hover{
   color:#101010;
-  background: #00ffef;  
+  background: #00ffec;  
 }
 
 .main-header-bar .nav-toggler{
@@ -1394,7 +1394,7 @@ form label.error{
 .main-nav-outer .main-nav-box .main-nav .navigation > li:hover > a:before,
 .main-nav-outer .main-nav-box .main-nav .navigation > li.current > a:before,
 .main-nav-outer .main-nav-box .main-nav .navigation > li.open > a:before{
-  background:#00ffef;  
+  background:#00ffec;  
 }
 
 .main-nav-outer .main-nav-box .main-nav .navigation > li:hover > a,
@@ -1403,7 +1403,7 @@ form label.error{
 .main-nav-outer .main-nav-box .main-nav .navigation > li.dropdown:hover > a:after,
 .main-nav-outer .main-nav-box .main-nav .navigation > li.dropdown.current > a:after,
 .main-nav-outer .main-nav-box .main-nav .navigation > li.dropdown.open > a:after{
-  color:#00ffef;  
+  color:#00ffec;  
 }
 
 .main-nav-outer .main-nav-box .main-nav .navigation > li > ul{
@@ -1441,7 +1441,7 @@ form label.error{
 
 .main-nav-outer .main-nav-box .main-nav .navigation > li > ul > li:hover > a,
 .main-nav-outer .main-nav-box .main-nav .navigation > li > ul > li.current > a{
-  color:#00ffef;  
+  color:#00ffec;  
 }
 
 
@@ -1519,7 +1519,7 @@ form label.error{
   left: 130px;
   bottom: 0;
   width: 0;
-  border-bottom: 5px solid #00ffef;
+  border-bottom: 5px solid #00ffec;
   z-index: 2;
 }
 
@@ -1661,7 +1661,7 @@ form label.error{
 
 .banner-section .owl-theme .owl-nav .owl-next:hover,
 .banner-section .owl-theme .owl-nav .owl-prev:hover{
-  background: #00ffef;
+  background: #00ffec;
   color: #101010;
 }
 
@@ -1814,7 +1814,7 @@ form label.error{
   vertical-align: top;
   line-height: 24px;
   padding: 8px 18px;
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
   font-size: 15px;
   font-weight: 600;
@@ -1866,7 +1866,7 @@ form label.error{
 
 .banner-two .owl-theme .owl-nav .owl-next:hover,
 .banner-two .owl-theme .owl-nav .owl-prev:hover{
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
 }
 
@@ -1893,7 +1893,7 @@ form label.error{
   display: block;
   width: 18px;
   height: 12px;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .def-title-box .patt span:after{
@@ -1991,7 +1991,7 @@ form label.error{
 }
 
 .service-block .inner-box:hover .icon-box{
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
 }
 
@@ -2022,7 +2022,7 @@ form label.error{
   height: 26px;
   line-height: 24px;
   text-align: center;
-  color: #00ffef;
+  color: #00ffec;
   font-size: 15px;
   border: 1px solid rgba(255, 255, 255, 0.40);
   border-radius: 0 10px 0 0;
@@ -2034,8 +2034,8 @@ form label.error{
 }
 
 .service-block .inner-box:hover .link-box a{
-  background: #00ffef;
-  border-color: #00ffef;
+  background: #00ffec;
+  border-color: #00ffec;
   color: #292c30;
 }
 
@@ -2077,7 +2077,7 @@ form label.error{
   top: 75px;
   right: -24px;
   bottom: -24px;
-  border: 1px solid #00ffef;
+  border: 1px solid #00ffec;
   border-radius: 0 0 20px 20px;
 }
 
@@ -2150,7 +2150,7 @@ form label.error{
   left: 0;
   top: 0;
   line-height: 26px;
-  color: #00ffef;
+  color: #00ffec;
 }
 
 /*** 
@@ -2196,7 +2196,7 @@ form label.error{
 .team-block .image-box{
   position: relative;
   display: block;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 20px;
   overflow: hidden;
 }
@@ -2260,7 +2260,7 @@ form label.error{
   line-height: 20px;
   padding: 4px 10px;
   color: #292c30;
-  background: #00ffef;
+  background: #00ffec;
   text-transform: uppercase;
   letter-spacing: 4px;
   border-radius: 0 0 8px 8px;
@@ -2313,7 +2313,7 @@ form label.error{
 }
 
 .team-block .social a:hover{
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
 }
 
@@ -2432,7 +2432,7 @@ form label.error{
 
 .def-tabs-box .tab-buttons .active-btn{
   color: #292c30;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .def-tabs-box .tabs-content{
@@ -2531,7 +2531,7 @@ form label.error{
 }
 
 .accordion-box .block .acc-btn.active i{
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
 }
 
@@ -2620,7 +2620,7 @@ form label.error{
   left: 0;
   top: 3px;
   height: 14px;
-  border-left: 4px solid #00ffef;
+  border-left: 4px solid #00ffec;
 }
 
 .main-footer .info .text{
@@ -2646,10 +2646,10 @@ form label.error{
   display: inline-block;
   vertical-align: top;
   font-size: 16px;
-  color: #00ffef;
+  color: #00ffec;
   font-family: 'Gotham_Light', sans-serif;
   text-transform: uppercase;
-  border-bottom: 1px solid #00ffef;
+  border-bottom: 1px solid #00ffec;
 }
 
 .main-footer .scroll-top{
@@ -2661,7 +2661,7 @@ form label.error{
   line-height: 120px;
   font-size: 36px;
   background: #292c30;
-  color: #00ffef;
+  color: #00ffec;
   text-align: center;
   border-radius: 20px 0 0 0;
   transition:all 500ms ease;
@@ -2725,7 +2725,7 @@ form label.error{
   text-align: center;
   font-weight: 400;
   font-size: 14px;
-  color: #00ffef;
+  color: #00ffec;
   font-family: 'Font Awesome 6 Pro';
 }
 
@@ -2739,7 +2739,7 @@ form label.error{
 }
 
 .page-title .bread-crumb ul li a:hover{
-  color: #00ffef;
+  color: #00ffec;
   text-decoration: underline;
 }
 
@@ -2944,7 +2944,7 @@ form label.error{
   left: 130px;
   bottom: 0;
   width: 0;
-  border-bottom: 5px solid #00ffef;
+  border-bottom: 5px solid #00ffec;
   display: none;
   z-index: 2;
 }
@@ -2969,7 +2969,7 @@ form label.error{
   font-weight: 400;
   font-size: 48px;
   color: #292c30;
-  background: #00ffef;
+  background: #00ffec;
   line-height: 60px;
   text-align: center;
   border-radius: 0 0 0 20px;
@@ -3063,7 +3063,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-three .slide-item .cat span:after{
@@ -3073,7 +3073,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-three .owl-nav,
@@ -3218,7 +3218,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 /*** 
@@ -3258,7 +3258,7 @@ form label.error{
 .news-block .image-box{
   position: relative;
   display: block;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 15px 15px 0 0;
   overflow: hidden;
 }
@@ -3297,7 +3297,7 @@ form label.error{
 }
 
 .news-block h4 a:hover{
-  color: #00ffef;
+  color: #00ffec;
 }
 
 .news-block .info{
@@ -3334,7 +3334,7 @@ form label.error{
   padding: 14px 30px;
   min-width: 230px;
   line-height: 24px;
-  color: #00ffef;
+  color: #00ffec;
   background: #2e2f32;
   border-radius: 12px 12px 0 0;
 }
@@ -3347,7 +3347,7 @@ form label.error{
 
 .news-block:hover .link-box a{
   color: #2e2f32;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 /*Pagination Style*/
@@ -3397,7 +3397,7 @@ form label.error{
 .styled-pagination li a:hover:after,
 .styled-pagination li.active a:after{
   border-bottom-width: 5px;
-  border-color: #00ffef;
+  border-color: #00ffec;
 }
 
 .styled-pagination li a:hover,
@@ -3462,7 +3462,7 @@ form label.error{
   bottom: 0px;
   margin-left: -10px;
   width: 20px;
-  border-bottom: 8px solid #00ffef;
+  border-bottom: 8px solid #00ffec;
   opacity: 0;
   border-radius: 3px 3px 0 0;
 }
@@ -3523,7 +3523,7 @@ form label.error{
 }
 
 .portfolio-block:hover .overlay{
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .portfolio-block .inner{
@@ -3594,7 +3594,7 @@ form label.error{
   padding: 12px 5px;
   text-align: center;
   background: #292c30;
-  color: #00ffef;
+  color: #00ffec;
   font-size: 22px;
   border-radius: 50%;
 }
@@ -3830,7 +3830,7 @@ form label.error{
 }
 
 .blog-details h4 a:hover{
-  color: #00ffef;
+  color: #00ffec;
 }
 
 .blog-details .info{
@@ -3887,7 +3887,7 @@ form label.error{
   top: 4px;
   bottom: 4px;
   width: 10px;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 5px;
 }
 
@@ -3937,7 +3937,7 @@ form label.error{
   top: -35px;
   width: 140px;
   height: 140px;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 15px 0 0 0;
 }
 
@@ -4026,7 +4026,7 @@ form label.error{
   bottom: 0;
   width: 0%;
   height: 100%;
-  border-bottom: 8px solid #00ffef;
+  border-bottom: 8px solid #00ffec;
   transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
   -ms-transition:all 500ms ease;
@@ -4096,13 +4096,13 @@ form label.error{
   font-size: 14px;
   padding: 4px 14px;
   color: #ffffff;
-  border: 1px solid #00ffef;
+  border: 1px solid #00ffec;
   border-radius: 8px;
 }
 
 .post-comments .comment .link a:hover{
   color: #37393d;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .sidebar-page-container .add-comment{
@@ -4170,7 +4170,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 1000px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .sidebar-side .recent-post{
@@ -4222,7 +4222,7 @@ form label.error{
   font-size: 14px;
   text-transform: uppercase;
   color: #292c30;
-  background: #00ffef;
+  background: #00ffec;
   line-height: 20px;
   padding: 4px 10px;
   border-radius: 8px;
@@ -4269,7 +4269,7 @@ form label.error{
   top: 6px;
   width: 14px;
   height: 14px;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 4px;
 }
 
@@ -4370,22 +4370,22 @@ form label.error{
         border-top-color: transparent;
     }
     25%{
-        border-top-color: #00ffef;
+        border-top-color: #00ffec;
     }
     50%{
-        border-top-color: #00ffef;
-        border-right-color: #00ffef;
+        border-top-color: #00ffec;
+        border-right-color: #00ffec;
     }
     75%{
-        border-top-color: #00ffef;
-        border-right-color: #00ffef;
-        border-bottom-color: #00ffef;
+        border-top-color: #00ffec;
+        border-right-color: #00ffec;
+        border-bottom-color: #00ffec;
     }
     100%{
-        border-top-color: #00ffef;
-        border-right-color: #00ffef;
-        border-bottom-color: #00ffef;
-        border-left-color: #00ffef;
+        border-top-color: #00ffec;
+        border-right-color: #00ffec;
+        border-bottom-color: #00ffec;
+        border-left-color: #00ffec;
     }
 }
 
@@ -4462,7 +4462,7 @@ form label.error{
 }
 
 .banner-four .pager-outer .pager-item.active{
-  background: #00ffef;
+  background: #00ffec;
   color: #292c30;
   padding-left: 120px;
   border-radius: 20px 0 0 20px;
@@ -4532,7 +4532,7 @@ form label.error{
   font-weight: 400;
   font-size: 48px;
   color: #292c30;
-  background: #00ffef;
+  background: #00ffec;
   line-height: 60px;
   text-align: center;
   border-radius: 0 0 0 20px;
@@ -4565,7 +4565,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 
@@ -4733,7 +4733,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-five .horizontal-scroll-box .portfolio-item-two{
@@ -4971,7 +4971,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-six .slide-item .cat span:after{
@@ -4981,7 +4981,7 @@ form label.error{
   top: 50%;
   margin-top: -1px;
   width: 20px;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-six .owl-nav,
@@ -5073,7 +5073,7 @@ form label.error{
 }
 
 .banner-seven .pager-outer .pager-item.active .text{
-  border-top-color: #00ffef;
+  border-top-color: #00ffec;
 }
 
 .banner-seven .pager-outer .pager-item .text strong{
@@ -5293,9 +5293,9 @@ form label.error{
 }
 
 .banner-eight .pager-box .pager-item.active .inner{
-  border-bottom-color: #00ffef;
+  border-bottom-color: #00ffec;
   color: #101010;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .banner-eight .pager-box .pager-item .image,
@@ -5441,7 +5441,7 @@ form label.error{
   font-family: 'Telegraf_UltraLight', sans-serif;
   font-weight: 400;
   font-size: 26px;
-  color: #00ffef;
+  color: #00ffec;
   text-transform: none;
   line-height:1.0em;
   margin:0px 0px 15px;
@@ -5483,7 +5483,7 @@ form label.error{
 
 .banner-eight .bx-controls .bx-prev:hover,
 .banner-eight .bx-controls .bx-next:hover{
-  color: #00ffef;
+  color: #00ffec;
 }
 
 /*** 
@@ -5745,7 +5745,7 @@ form label.error{
   left: 0;
   top: 0;
   width: 50%;
-  border-bottom: 2px solid #00ffef;
+  border-bottom: 2px solid #00ffec;
 }
 
 .banner-nine .slide-item .links-box .link{
@@ -5784,7 +5784,7 @@ form label.error{
 
 .banner-nine .bx-controls .bx-prev:hover,
 .banner-nine .bx-controls .bx-next:hover{
-  color: #00ffef;
+  color: #00ffec;
 }
 
 /*** 
@@ -5924,7 +5924,7 @@ form label.error{
   font-family: 'Telegraf_UltraLight', sans-serif;
   font-weight: 400;
   font-size: 26px;
-  color: #00ffef;
+  color: #00ffec;
   text-transform: none;
   line-height:1.0em;
   margin:0px 0px 15px;
@@ -5981,7 +5981,7 @@ form label.error{
   font-family: 'Monument_Extended_Regular', sans-serif;
   font-weight: 400;
   font-size: 50px;
-  color: #00ffef;
+  color: #00ffec;
   line-height: 110px;
   height: 110px;
   border-radius: 10px;
@@ -6041,13 +6041,13 @@ form label.error{
 
 .banner-ten .bx-controls .bx-next{
   color: #101010;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 .banner-ten .bx-controls .bx-prev:hover,
 .banner-ten .bx-controls .bx-next:hover{
   color: #101010;
-  background: #00ffef;
+  background: #00ffec;
 }
 
 /*** 
@@ -6316,8 +6316,8 @@ form label.error{
 .banner-eleven .bx-controls .bx-prev:hover,
 .banner-eleven .bx-controls .bx-next:hover{
   color: #101010;
-  border-color: #00ffef;
-  background: #00ffef;
+  border-color: #00ffec;
+  background: #00ffec;
 }
 
 /* Cursor*/ 
@@ -6346,7 +6346,7 @@ form label.error{
   width: 22px;
   height: 22px;
   margin: -11px 0 0 -11px;
-  background: #00ffef;
+  background: #00ffec;
   border-radius: 50%;
   -ms-animation: cursorAnim2 1.5s infinite alternate;
   animation: cursorAnim2 1.5s infinite alternate;
@@ -6382,5 +6382,5 @@ form label.error{
 }
 .expand {
   animation: cursorAnim3 0.5s forwards;
-  border: 1px solid #00ffef;
+  border: 1px solid #00ffec;
 }
